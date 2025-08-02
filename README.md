@@ -25,11 +25,6 @@ A lightweight Python tool that:
 
 ---
 
-## 📸 Screenshot
-*(Example HTML report)*
-
----
-
 ## 🛠️ Installation
 Clone the repository:
 ```bash
@@ -45,5 +40,6 @@ pip install -r requirements.txt
 python3 main.py --url https://example.com --report html
 
 Made with ❤️ by Aradhana Singh 
+
 
 
